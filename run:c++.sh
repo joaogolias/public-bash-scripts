@@ -66,7 +66,7 @@ for path in "${patharr[@]}"; do
 	i=$((i + 1))
 done
 
-#######################
+######################
 # Compiling C++ file #
 ######################
 finaloutputpath="$output/$onlyfilename.out"
